@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>qq-central</groupId>
+    <artifactId>jce2java</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>qq-central</groupId>
+                <artifactId>maven-taf-plugin</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+                <configuration>
+                    <supportWUP>true</supportWUP>
+                    <withServant>true</withServant>
+                    <cloud>true</cloud>
+                    <charset>UTF-8</charset>
+                    <packagePrefixName>com.yuewen.unite.demo.spring.boot</packagePrefixName>
+                    <srcPath>src/main/java/</srcPath>
+                    <jceFileCharset>UTF-8</jceFileCharset>
+                    <jceFiles>
+                        <jceFile>src/main/resources/jce/TafDemoServiceSpringBoot.jce</jceFile>
+                    </jceFiles>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
