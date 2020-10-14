@@ -1,5 +1,0 @@
-module servant {
-    interface Live {
-        void isAlive(out string result);
-    };
-}

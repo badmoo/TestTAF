@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d2546ba-646c-45c0-b0f4-440950882bca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_66.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_kstyrc_embedded_redis_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_197.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qq_l5_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_httpinvoker_httpinvoker_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_all_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_cache_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_cmq_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_common_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_elk_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_protect_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_spring_autoconfigure_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_spring_cache_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_spring_datasource_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_spring_taf_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_spring_test_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yuewen_unite_unite_framework_taf_0_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_dcache_client_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_distributedContext_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_fzlog_api_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_fzlog_base_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_fzlog_ext_taf_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_j4logCompanion_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_j4log_lite_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_jutil_1_0_2_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_nami_core_1_0_3_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_ppreport_plus_java_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_taf_client_3_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_taf_context_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_taf_proxy_3_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_taf_server_3_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_taf_spring_boot_starter_2_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__qq_central_thessian_core_1_0_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/antlr/antlr/2.7.7/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/antlr/antlr/2.7.7/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/antlr/antlr/2.7.7/antlr-2.7.7.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/antlr/antlr/2.7.7/antlr-2.7.7.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/antlr/antlr/2.7.7/antlr-2.7.7.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/ST4/4.0.7/ST4-4.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/ST4/4.0.7/ST4-4.0.7.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/ST4/4.0.7/ST4-4.0.7.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/ST4/4.0.7/ST4-4.0.7.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/ST4/4.0.7/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr-master/3.5/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr-master/3.5/antlr-master-3.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr-master/3.5/antlr-master-3.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr-runtime/3.5/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr-runtime/3.5/antlr-runtime-3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr-runtime/3.5/antlr-runtime-3.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr-runtime/3.5/antlr-runtime-3.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr-runtime/3.5/antlr-runtime-3.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr/3.5/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr/3.5/antlr-3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr/3.5/antlr-3.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr/3.5/antlr-3.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/antlr/3.5/antlr-3.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/stringtemplate/3.2.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/apache/18/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/apache/18/apache-18.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/apache/18/apache-18.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/commons/commons-lang3/3.5/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/commons/commons-parent/41/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/commons/commons-parent/41/commons-parent-41.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/commons/commons-parent/41/commons-parent-41.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/maven/maven-plugin-api/2.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/maven/maven-plugin-api/2.0/maven-plugin-api-2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/maven/maven-plugin-api/2.0/maven-plugin-api-2.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/maven/maven-plugin-api/2.0/maven-plugin-api-2.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/maven/maven-plugin-api/2.0/maven-plugin-api-2.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/maven/maven/2.0/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/maven/maven/2.0/maven-2.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/apache/maven/maven/2.0/maven-2.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/codehaus/plexus/plexus-utils/1.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/sonatype/oss/oss-parent/7/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/sonatype/oss/oss-parent/7/oss-parent-7.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/mqq/1.0.0-SNAPSHOT/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/mqq/1.0.0-SNAPSHOT/maven-metadata-yuewen-inner-nexus2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/mqq/1.0.0-SNAPSHOT/maven-metadata-yuewen-inner-nexus2.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/mqq/1.0.0-SNAPSHOT/mqq-1.0.0-20170407.050811-15.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/mqq/1.0.0-SNAPSHOT/mqq-1.0.0-20170407.050811-15.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/mqq/1.0.0-SNAPSHOT/mqq-1.0.0-SNAPSHOT.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/mqq/1.0.0-SNAPSHOT/resolver-status.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/maven-metadata-yuewen-inner-nexus2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/maven-metadata-yuewen-inner-nexus2.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/maven-taf-plugin-1.0.0-20181122.091046-11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/maven-taf-plugin-1.0.0-20181122.091046-11.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/maven-taf-plugin-1.0.0-20181122.091046-11.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/maven-taf-plugin-1.0.0-20181122.091046-11.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/maven-taf-plugin-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/maven-taf-plugin-1.0.0-SNAPSHOT.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/maven-taf-plugin/1.0.0-SNAPSHOT/resolver-status.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/parent/central/1.0.0-SNAPSHOT/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/parent/central/1.0.0-SNAPSHOT/central-1.0.0-20090514.070244-4.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/parent/central/1.0.0-SNAPSHOT/central-1.0.0-20090514.070244-4.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/parent/central/1.0.0-SNAPSHOT/central-1.0.0-SNAPSHOT.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/parent/central/1.0.0-SNAPSHOT/maven-metadata-yuewen-inner-nexus2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/parent/central/1.0.0-SNAPSHOT/maven-metadata-yuewen-inner-nexus2.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qq-central/parent/central/1.0.0-SNAPSHOT/resolver-status.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taf-demo-service-spring-boot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taf-demo-service-spring-boot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yuewen/unite/demo/spring/boot/TafDemoServiceSpringBootApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yuewen/unite/demo/spring/boot/servant/LiveServant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yuewen/unite/demo/spring/boot/servant/impl/LiveServantImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jce/TafDemoServiceSpringBoot.jce" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irImbsbfrQmnhJcO8nqEdDwYif" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="jce2java" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="jce2java" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TafDemoServiceSpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taf-demo-service-spring-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yuewen.unite.demo.spring.boot.TafDemoServiceSpringBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2546ba-646c-45c0-b0f4-440950882bca" name="Default Changelist" comment="" />
+      <created>1602659451458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602659451458</updated>
+      <workItem from="1602659455317" duration="840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="131" key="#Project_Structure" timestamp="1602659622937">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1602659622937" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1602659515116">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1602659515116" />
+    <state x="526" y="201" key="SettingsEditor" timestamp="1602659517235">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1602659517235" />
+  </component>
+</project>

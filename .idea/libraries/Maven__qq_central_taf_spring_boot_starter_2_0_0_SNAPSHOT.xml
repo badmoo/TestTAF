@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: qq-central:taf-spring-boot-starter:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/taf-spring-boot-starter/2.0.0-SNAPSHOT/taf-spring-boot-starter-2.0.0-20200519.035114-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/taf-spring-boot-starter/2.0.0-SNAPSHOT/taf-spring-boot-starter-2.0.0-20200519.035114-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/taf-spring-boot-starter/2.0.0-SNAPSHOT/taf-spring-boot-starter-2.0.0-20200519.035114-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

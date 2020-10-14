@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: qq-central:taf-server:3.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/taf-server/3.1.0-SNAPSHOT/taf-server-3.1.0-20200525.035146-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/taf-server/3.1.0-SNAPSHOT/taf-server-3.1.0-20200525.035146-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/taf-server/3.1.0-SNAPSHOT/taf-server-3.1.0-20200525.035146-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

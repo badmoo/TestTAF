@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: qq-central:fzlog-api:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/fzlog-api/1.0.0-SNAPSHOT/fzlog-api-1.0.0-20180320.071415-25.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/fzlog-api/1.0.0-SNAPSHOT/fzlog-api-1.0.0-20180320.071415-25-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/fzlog-api/1.0.0-SNAPSHOT/fzlog-api-1.0.0-20180320.071415-25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

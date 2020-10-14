@@ -9,5 +9,9 @@
         <module name="taf-demo-service-spring-boot" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jce2java" target="1.5" />
+      <module name="taf-demo-service-spring-boot" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

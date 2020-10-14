@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: qq-central:nami_core:1.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/nami_core/1.0.3-SNAPSHOT/nami_core-1.0.3-20180416.101411-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/nami_core/1.0.3-SNAPSHOT/nami_core-1.0.3-20180416.101411-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../repository/qq-central/nami_core/1.0.3-SNAPSHOT/nami_core-1.0.3-20180416.101411-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
